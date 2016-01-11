@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://www.example.org/conexion" 
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		 xsi:schemaLocation="http://www.example.org/conexion conexion.xsd ">
+    <conexion>
+        <id>100</id>
+        <ip>192.168.1.1</ip>
+        <port>8080</port>
+    </conexion>
+    <conexion>
+        <id>200</id>
+        <ip>192.168.1.2</ip>
+        <port>8081</port>
+    </conexion>
+    <conexion>
+        <id>300</id>
+        <ip>192.168.1.3</ip>
+        <port>8082</port>
+    </conexion>
+</configuration>
+
+

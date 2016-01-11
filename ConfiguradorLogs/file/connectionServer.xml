@@ -1,0 +1,7 @@
+
+
+<connectionServer>
+    <id>100</id>
+    <ip>192.168.1.1</ip>
+    <port>8080</port>
+</connectionServer>
